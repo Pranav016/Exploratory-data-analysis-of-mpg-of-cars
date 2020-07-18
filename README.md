@@ -44,6 +44,6 @@ Seaborn <br/>
 
 ![Plot4](/plots/plot4.PNG)
 
-*Cars of which company have higher avg displacement
+* Cars of which company have higher avg displacement
 
 ![Plot5](/plots/plot5.PNG)
